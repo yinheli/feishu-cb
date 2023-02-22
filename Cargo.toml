@@ -3,7 +3,7 @@ name = "feishu-cb"
 version = "0.1.0"
 edition = "2021"
 authors = ["yinheli <me@yinheli.com>"]
-license = "MIT"
+license = "Apache-2.0"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
