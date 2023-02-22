@@ -1,5 +1,7 @@
 # feishu-cb
 
+[![build](https://github.com/yinheli/feishu-cb/actions/workflows/build.yml/badge.svg)](https://github.com/yinheli/feishu-cb/actions/workflows/build.yml)
+
 feishu-cb used to API develop, dump requests and send to feishu via bot.
 
 ## Usage
